@@ -1,61 +1,322 @@
-# Hi, I'm Vasanth 👋
-
-### AI Developer · Building intelligent, agentic systems with LLMs
-### Exploring Agentic AI · RAG · Machine Learning · Deep Learning
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+Systems;Designing+RAG+Pipelines;Fine-tuning+%26+Prompting+LLMs;Turning+Data+into+Intelligent+Apps)](https://git.io/typing-svg)
-
-[![Profile views](https://komarev.com/ghpvc/?username=vasanth-cloud&label=Profile+views&color=0ea5e9&style=flat-square)](https://github.com/vasanth-cloud)
-[![GitHub followers](https://img.shields.io/github/followers/vasanth-cloud?label=Followers&style=flat-square&color=0ea5e9)](https://github.com/vasanth-cloud?tab=followers)
-
-## About me
-
-- 🤖 Building **Agentic AI** systems — multi-agent workflows, tool-calling, autonomous task execution
-- 📚 Designing **RAG (Retrieval-Augmented Generation)** pipelines with vector databases and embeddings
-- 🧠 Working with **LLMs** — prompt engineering, fine-tuning, and evaluation
-- 📊 Strong foundation in **Machine Learning** and **Deep Learning**
-- ☁️ Deploying AI applications on the cloud with scalable, production-ready architectures
-- 🛠️ Building hands-on projects with Python, LangChain, LangGraph, and vector stores
-- 🌱 Continuously learning the latest in generative AI and MLOps
-- 🤝 Open to collaborating on AI, LLM, and open-source projects
-- 📫 Reach me at **avasanth081@gmail.com**
-
-## Tech toolbox
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_DB-Pinecone%2FChroma%2FFAISS-8A2BE2?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+# Hi, I'm Vasanth 👋
+
+### AI Developer | Generative AI Engineer | Building Intelligent and Agentic Systems
+
+I build practical AI applications using **LLMs, Agentic AI, Retrieval-Augmented Generation, Machine Learning, Deep Learning, FastAPI, and Cloud Technologies**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A.%20Vasanth-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/a-vasanth/)
+[![GitHub](https://img.shields.io/badge/GitHub-vasanth--cloud-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vasanth-cloud)
+[![Email](https://img.shields.io/badge/Email-avasanth081%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:avasanth081@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=vasanth-cloud\&style=for-the-badge)
 
 </div>
 
-## What I work with
+---
 
-- **Agentic AI:** multi-agent orchestration, autonomous agents, tool/function calling, agent memory
-- **RAG:** document chunking, embeddings, semantic search, vector stores (FAISS, Chroma, Pinecone)
-- **LLMs:** prompt engineering, fine-tuning, evaluation, LangChain / LangGraph pipelines
-- **ML/DL:** classification, regression, neural networks, model deployment
+## 👨‍💻 About Me
+
+* 🤖 Building **Agentic AI systems** with multi-agent workflows, tool calling, memory, routing, and autonomous task execution
+* 📚 Designing **RAG pipelines** using embeddings, vector databases, hybrid retrieval, and source tracking
+* 🧠 Developing applications powered by **Large Language Models**
+* 📊 Working with **Machine Learning, Deep Learning, NLP, and Computer Vision**
+* ☁️ Deploying AI applications using **AWS EC2, Docker, Linux, FastAPI, and Uvicorn**
+* 🛠️ Building practical projects using **Python, LangChain, LangGraph, React, and Streamlit**
+* 🌱 Currently improving my knowledge of **LLM evaluation, MLOps, model deployment, and scalable AI systems**
+* 🤝 Open to collaborating on **AI, LLM, RAG, Machine Learning, and open-source projects**
+* 📫 Contact me at **[avasanth081@gmail.com](mailto:avasanth081@gmail.com)**
+
+---
+
+## 🛠️ Tech Toolbox
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
+</p>
+
+### Artificial Intelligence and Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+</p>
+
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Computer Vision
+* Generative AI
+* Large Language Models
+* Agentic AI
+* Retrieval-Augmented Generation
+* Prompt Engineering
+* Embeddings and Semantic Search
+* Hybrid Search
+* Model Evaluation
+
+### Generative AI Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=huggingface" />
+</p>
+
+* LangChain
+* LangGraph
+* Google Gemini
+* OpenAI-compatible APIs
+* Sentence Transformers
+* ChromaDB
+* FAISS
+* BM25
+
+### Backend and APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,postman" />
+</p>
+
+* FastAPI
+* REST API Development
+* API Integration
+* Uvicorn
+* Streaming Responses
+* Authentication and Backend Workflows
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+* PostgreSQL
+* MongoDB
+* MySQL
+* ChromaDB
+* Vector Databases
+
+### Frontend and User Interfaces
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
+</p>
+
+* React
+* Streamlit
+* HTML
+* CSS
+* JavaScript
+
+### Cloud and DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github,githubactions" />
+</p>
+
+* AWS EC2
+* Microsoft Azure
+* Docker
+* Linux
+* Git
+* GitHub
+* GitHub Actions
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Smart VSaaS – Edge AI Video Surveillance Platform
+
+An AI-powered video surveillance platform that processes live camera streams and automatically detects security events.
+
+#### Key Features
+
+* Real-time object detection using YOLOv8
+* RTSP and IP camera integration
+* Restricted-zone monitoring
+* Intrusion detection with cooldown logic
+* Automated image and video recording
+* Desktop and email alert support
+* Live monitoring dashboard
+* Event storage using PostgreSQL
+* Containerized deployment using Docker
+
+#### Tech Stack
+
+`Python` `YOLOv8` `OpenCV` `FastAPI` `PostgreSQL` `FFmpeg` `Streamlit` `Docker` `Linux`
+
+---
+
+### 2. AI Document Question Answering and Voice Assistant
+
+A conversational AI system that answers questions from uploaded documents using Retrieval-Augmented Generation.
+
+#### Key Features
+
+* Document ingestion and processing
+* Semantic search using vector embeddings
+* Hybrid retrieval using BM25 and vector search
+* Conversational memory using session IDs
+* Source tracking for generated answers
+* Streaming AI responses
+* Voice input and text-to-speech output
+* Multi-agent retrieval, validation, and answer workflow
+* Deployed on AWS EC2
+
+#### Tech Stack
+
+`Python` `FastAPI` `LangGraph` `ChromaDB` `Sentence Transformers` `BM25` `Google Gemini` `AWS EC2`
+
+---
+
+### 3. Recruitment Automation Multi-Agent System
+
+An AI-powered recruitment assistant that automates resume evaluation, candidate scoring, ranking, and recommendations.
+
+#### AI Agents
+
+* Requirement Analysis Agent
+* Job Description Agent
+* Resume Parsing Agent
+* Skill Matching Agent
+* Candidate Scoring Agent
+* Ranking Agent
+* Recommendation Agent
+
+#### Key Features
+
+* Resume and job-description parsing
+* Candidate-to-job skill matching
+* Automated candidate scoring
+* Candidate ranking
+* AI-generated hiring recommendations
+* Multi-agent workflow orchestration
+* FastAPI backend
+* React-based user interface
+
+#### Tech Stack
+
+`Python` `FastAPI` `LangGraph` `Generative AI` `React` `PDF Processing`
+
+---
+
+### 4. SHL Conversational Assessment Recommender
+
+A conversational assessment recommendation system that suggests suitable assessments based on job requirements and user preferences.
+
+#### Key Features
+
+* Conversational intent routing
+* Assessment catalogue retrieval
+* Hard-constraint filtering
+* LLM-based candidate reranking
+* Deterministic fallback recommendations
+* Support for refining and comparing assessments
+* Stateless FastAPI chat endpoint
+* Public API deployment
+
+#### Tech Stack
+
+`Python` `FastAPI` `LLMs` `Information Retrieval` `Recommendation Systems`
+
+---
+
+### 5. GenAI-Enabled Smart Parking System
+
+An intelligent parking management platform designed to improve parking discovery, reservation, access, and monitoring.
+
+#### Key Features
+
+* Parking-space availability tracking
+* Pre-booking and reservation
+* QR-based parking access
+* Vehicle-number verification
+* User, parking-owner, and administrator panels
+* Parking occupancy monitoring
+* AI-assisted recommendations and automation
+* Analytics and parking-management workflows
+
+#### Tech Stack
+
+`Python` `FastAPI` `React` `PostgreSQL` `Generative AI` `Computer Vision`
+
+---
+
+## 📄 Research and Publication
+
+### GenAI-Enabled Smart Parking System
+
+Published as part of the **ICMTIMS 2026 Conference Proceedings**.
+
+The work explores the application of Generative AI, intelligent automation, and digital parking-management technologies to improve urban parking experiences.
+
+---
+
+## 🎓 Education
+
+### B.Tech in Artificial Intelligence and Machine Learning
+
+**SNS College of Technology, Coimbatore**
+
+* CGPA: **8.24**
+* Graduation Year: **2026**
+
+---
+
+## 🏅 Certifications
+
+* AWS Cloud Practitioner Essentials
+* Microsoft Azure AI Fundamentals
+
+---
+
+## 🎯 Currently Learning
+
+* Advanced Agentic AI architectures
+* LangGraph workflow orchestration
+* RAG evaluation and optimization
+* LLM observability and evaluation
+* Model fine-tuning fundamentals
+* PyTorch
+* MLOps
+* CI/CD for AI applications
+* Kubernetes and production deployment
+* Scalable data and AI systems
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avasanth081@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vasanth-cloud)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vasanth-cloud&show_icons=true&hide_border=true" />
 
-### "Learn. Build. Train. Deploy. Improve."
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanth-cloud&layout=compact&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vasanth-cloud&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+* GitHub: [github.com/vasanth-cloud](https://github.com/vasanth-cloud)
+* LinkedIn: [linkedin.com/in/a-vasanth](https://www.linkedin.com/in/a-vasanth/)
+* Email: [avasanth081@gmail.com](mailto:avasanth081@gmail.com)
+
+---
+
+<div align="center">
+
+### “Learn. Build. Train. Deploy. Improve.”
+
+Building practical AI systems that solve real-world problems using **LLMs, RAG, Machine Learning, and Agentic AI**.
 
 </div>
